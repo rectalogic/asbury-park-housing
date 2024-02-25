@@ -25,7 +25,7 @@ VVV
 ---
 
 Holy Spirit Church development
-705 2nd Ave
+701-705 2nd Ave
 https://thecoaster.net/2024/02/21/new-plan-unveiled-for-holy-spirit-church/
 
 90 apartments, cafe, offices
