@@ -149,7 +149,7 @@ VVV
 
 VVV
 
-<img width="600" src="https://gist.github.com/assets/11581/5dc9188a-0d34-455d-9559-2bff4bb20328">
+<img width="600" src="407-lake.png">
 
 VVV
 
