@@ -137,4 +137,4 @@ across from Rhythm (lot on 7th)
 Grand & 8th - girders
 527 Bangs apts https://www.527bangs.com/apartments
 
-
+1001 1st https://re-nj.com/marcus-asbury-park-lot-zoned-for-80-apartments-trades-for-2-2-million/
