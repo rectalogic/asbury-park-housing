@@ -199,6 +199,8 @@ VVV
 
 ---
 
+https://public-api.qr-code-generator.com/v1/create/free?image_format=PNG&image_width=300&download=1&foreground_color=%23000000&frame_color=%23000000&frame_name=qrcg-scan-me-bottom-frame&qr_code_logo=&qr_code_pattern=rounded-2&qr_code_text=https%3A%2F%2Fgist-reveal.rectalogic.com%2F%3FmarkdownURL%3Dhttps%3A%2F%2Fgist.githubusercontent.com%2Frectalogic%2F76c529e1534800d0eb22a7fa9a5b5e82%2Fraw%2F0-asbury-park-housing.md
+
 across from Rhythm (lot on 7th)
 Grand & 8th - girders
 
