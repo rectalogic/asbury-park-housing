@@ -71,6 +71,7 @@ VVV
 ---
 
 Kingsley & 8th Ave
+201-203 8th Ave
 
 VVV
 
@@ -132,4 +133,6 @@ VVV
 
 across from Rhythm (lot on 7th)
 Grand & 8th - girders
+535 Bangs apts
+
 
