@@ -134,6 +134,6 @@ VVV
 
 across from Rhythm (lot on 7th)
 Grand & 8th - girders
-527 Bangs apts
+527 Bangs apts https://www.527bangs.com/apartments
 
 
