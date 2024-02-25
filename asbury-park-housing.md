@@ -1,4 +1,4 @@
-note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/cf952d310d2a7d9462d2de58dc9bc829fb7842a8/asbury-park-housing.md
+note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/asbury-park-housing.md
 
 Sunset Square
 1401 Kingsley St
