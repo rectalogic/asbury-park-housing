@@ -1,3 +1,5 @@
+note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/cf952d310d2a7d9462d2de58dc9bc829fb7842a8/asbury-park-housing.md
+
 Sunset Square
 1401 Kingsley St
 https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274
@@ -6,7 +8,7 @@ https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.274162465403!2d-74.00317982429293!3d40.22520606727424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708876714782!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.274162465403!2d-74.00317982429293!3d40.22520606727424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708876714782!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -18,7 +20,7 @@ https://www.rhythmasburypark.com/
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.198605349604!2d-74.0000448!3d40.22688619999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266eadd67745%3A0xf0da195a19b21e86!2s202%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877073292!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.198605349604!2d-74.0000448!3d40.22688619999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266eadd67745%3A0xf0da195a19b21e86!2s202%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877073292!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -30,7 +32,7 @@ https://thecoaster.net/2024/02/21/new-plan-unveiled-for-holy-spirit-church/
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.390527121548!2d-74.01020460000005!3d40.2226184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e25f24e83%3A0x4121afc3b4011f25!2s705%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877249251!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.390527121548!2d-74.01020460000005!3d40.2226184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e25f24e83%3A0x4121afc3b4011f25!2s705%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877249251!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -38,7 +40,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.467750312944!2d-74.01314212429314!3d40.2209010675353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877376474!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.467750312944!2d-74.01314212429314!3d40.2209010675353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877376474!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -51,11 +53,11 @@ https://jerseydigs.com/k-hovnanian-homes-to-pitch-44-unit-development-in-asbury-
 
 VVV
 
-<img src="https://jerseydigs.com/wp-content/uploads/2021/08/new-condo-development-Asbury-Park-baltic-and-aegean.jpg" width="400" />
+<img src="https://jerseydigs.com/wp-content/uploads/2021/08/new-condo-development-Asbury-Park-baltic-and-aegean.jpg" width="600" />
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.4302032594937!2d-74.00606592429313!3d40.22173606748477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22641d4a1d39f%3A0x7b970c13b2e9f25f!2s218%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877631093!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.4302032594937!2d-74.00606592429313!3d40.22173606748477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22641d4a1d39f%3A0x7b970c13b2e9f25f!2s218%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877631093!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -64,7 +66,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.424685811606!2d-74.00528532429307!3d40.221858767477336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22641dfd3d0c5%3A0xa9efc056db92b83f!2s210%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877820548!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.424685811606!2d-74.00528532429307!3d40.221858767477336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22641dfd3d0c5%3A0xa9efc056db92b83f!2s210%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877820548!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -72,7 +74,7 @@ Kingsley & 8th Ave
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1523.069749121193!2d-73.99916799999998!3d40.228200499999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266eed34a88f%3A0xf7325bfd0615d519!2s8th%20Ave%20%26%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708878099770!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1523.069749121193!2d-73.99916799999998!3d40.228200499999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266eed34a88f%3A0xf7325bfd0615d519!2s8th%20Ave%20%26%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708878099770!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -82,11 +84,11 @@ https://www.starfieldcompanies.com/surfhouse
 
 VVV
 
-<img src="https://qjv6a4.a2cdn1.secureserver.net/wp-content/uploads/2022/03/CREDIT_-Minno-Wasko-Architects-and-Planners-1.jpg" width="400" />
+<img src="https://qjv6a4.a2cdn1.secureserver.net/wp-content/uploads/2022/03/CREDIT_-Minno-Wasko-Architects-and-Planners-1.jpg" width="600" />
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1465.68938839167!2d-74.00329385546803!3d40.22212786312601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266a044993cf%3A0x87086dec6195b018!2s1150%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708878562611!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1465.68938839167!2d-74.00329385546803!3d40.22212786312601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266a044993cf%3A0x87086dec6195b018!2s1150%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708878562611!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -96,11 +98,11 @@ https://www.roi-nj.com/2023/07/21/real_estate/inspired-by-somerset-development-g
 
 VVV
 
-<img src="https://jerseydigs.com/wp-content/uploads/2023/07/wonder-bar-condos-asbury-park.jpg" width="400" />
+<img src="https://jerseydigs.com/wp-content/uploads/2023/07/wonder-bar-condos-asbury-park.jpg" width="600" />
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2931.345539773978!2d-74.00030399999994!3d40.22289600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c226698b5f3b4f%3A0xf13cee52232fa392!2s115%204th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708879116501!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2931.345539773978!2d-74.00030399999994!3d40.22289600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c226698b5f3b4f%3A0xf13cee52232fa392!2s115%204th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708879116501!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -109,7 +111,7 @@ between Cookman and Lake
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.6370862288854!2d-74.00944592429339!3d40.21713506776379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22638a934dda3%3A0x44e06b18082769f0!2s8%20Grove%20Ct%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708879482445!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.6370862288854!2d-74.00944592429339!3d40.21713506776379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22638a934dda3%3A0x44e06b18082769f0!2s8%20Grove%20Ct%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708879482445!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -120,11 +122,11 @@ https://jerseydigs.com/1012-asbury-avenue-asbury-park/
 
 VVV
 
-<img src="https://jerseydigs.com/wp-content/uploads/2023/08/1012-Asbury-Avenue-Asbury-Park-Rendering.jpg" width="400" />
+<img src="https://jerseydigs.com/wp-content/uploads/2023/08/1012-Asbury-Avenue-Asbury-Park-Rendering.jpg" width="600" />
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.464287917132!2d-74.01859792429302!3d40.22097806753067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263cfb5a9b77%3A0xead011fb747a362d!2s1012%20Asbury%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708880542285!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.464287917132!2d-74.01859792429302!3d40.22097806753067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263cfb5a9b77%3A0xead011fb747a362d!2s1012%20Asbury%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708880542285!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
