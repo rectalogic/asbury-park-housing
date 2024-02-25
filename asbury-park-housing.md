@@ -1,10 +1,11 @@
-Asbury Park Housing Developments
+# Asbury Park Housing Developments
 
 note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/asbury-park-housing.md
 
 ---
 
 ## Sunset Square
+
 1401 Kingsley St
 
 https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274
@@ -118,8 +119,7 @@ Toll Brothers
 
 VVV
 
-(XXX update embed)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.6370862288854!2d-74.00944592429339!3d40.21713506776379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22638a934dda3%3A0x44e06b18082769f0!2s8%20Grove%20Ct%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708879482445!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.6490056284024!2d-74.00962392435473!3d40.21686997147254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22638bc9624bb%3A0xc108c7cc594e1d80!2s407%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708901111293!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
