@@ -149,7 +149,7 @@ VVV
 
 VVV
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/407-lake.png">
+<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/407-lake.jpg">
 
 VVV
 
