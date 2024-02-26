@@ -1,4 +1,4 @@
-# Asbury Park Housing Developments
+# Asbury Park Housing Construction
 
 note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/0-asbury-park-housing.md
 
@@ -12,7 +12,7 @@ note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercon
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.274162465403!2d-74.00317982429293!3d40.22520606727424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708876714782!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5862.49151361819!2d-74.000605!3d40.225202!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972177261!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -35,7 +35,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.198605349604!2d-74.0000448!3d40.22688619999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266eadd67745%3A0xf0da195a19b21e86!2s202%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877073292!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5862.3457708337855!2d-74.000045!3d40.226886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266eadd67745%3A0xf0da195a19b21e86!2s202%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972212442!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -57,7 +57,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.390527121548!2d-74.01020460000005!3d40.2226184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e25f24e83%3A0x4121afc3b4011f25!2s705%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877249251!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2931.357222638004!2d-74.01019099999996!3d40.22262600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e3b3a8853%3A0x5e938ec0df247766!2s701%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972329983!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -71,7 +71,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.467750312944!2d-74.01314212429314!3d40.2209010675353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877376474!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2931.423527694274!2d-74.01269130946285!3d40.22109361050194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972368908!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -83,7 +83,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.4302032594937!2d-74.00606592429313!3d40.22173606748477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22641d4a1d39f%3A0x7b970c13b2e9f25f!2s218%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877631093!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5862.791810868582!2d-74.003491!3d40.221732!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22641d4a1d39f%3A0x7b970c13b2e9f25f!2s218%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972399397!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -110,7 +110,7 @@ VVV
 
 ---
 
-## (near Baltic)
+## (Powhatan Hotel)
 
 208 3rd Ave
 
@@ -118,7 +118,7 @@ note: owner 209-213 FOURTH AVE., LLC
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.424685811606!2d-74.00528532429307!3d40.221858767477336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22641dfd3d0c5%3A0xa9efc056db92b83f!2s210%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708877820548!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2931.3870387447478!2d-74.00389017188964!3d40.22193691995342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22641dfd3d0c5%3A0xa9efc056db92b83f!2s210%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972454085!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -134,7 +134,7 @@ Site
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1523.069749121193!2d-73.99916799999998!3d40.228200499999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266eed34a88f%3A0xf7325bfd0615d519!2s8th%20Ave%20%26%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708878099770!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d761.5277370628538!2d-74.000226630391!3d40.22883532211181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266e8ecc2f0f%3A0x27dce58489b3da80!2s201-203%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708972629754!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -202,7 +202,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.6490056284024!2d-74.00962392435473!3d40.21686997147254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22638bc9624bb%3A0xc108c7cc594e1d80!2s407%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708901111293!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5863.212537009117!2d-74.007049!3d40.21687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22638bc9624bb%3A0xc108c7cc594e1d80!2s407%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972696817!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -224,7 +224,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.464287917132!2d-74.01859792429302!3d40.22097806753067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263cfb5a9b77%3A0xead011fb747a362d!2s1012%20Asbury%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708880542285!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2931.4180692836535!2d-74.01640923802118!3d40.22121976275884!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263cfb5a9b77%3A0xead011fb747a362d!2s1012%20Asbury%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972742532!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -244,7 +244,7 @@ VVV
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.6487358539566!2d-74.01225992435472!3d40.21687597147247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22639213e39ef%3A0x1612c7c056e794d6!2s527%20Bangs%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1708901418644!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2931.5882864076993!2d-74.01105829093868!3d40.21728562887761!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22639213e39ef%3A0x1612c7c056e794d6!2s527%20Bangs%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972779075!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
