@@ -49,9 +49,9 @@ VVV
 
 ---
 
-## Holy Spirit Church development
+## The Crossroads @ Asbury Park
 
-701-705 2nd Ave
+701-705 2nd Ave (Holy Spirit church)
 
 90 apartments, cafe, offices
 
@@ -61,12 +61,19 @@ VVV
 
 VVV
 
+Render
+
+<img width="600" src="https://images.squarespace-cdn.com/content/v1/60d8e509429e6c714c865712/1707947678177-83F0EHP4LX1WRAYA1V69/2024_0209+Holy+Spirit+Redevelopment_Page_04.jpg?format=600w">
+
+VVV
+
 Site
 
 <img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-holy-spirit.jpg">
 
 VVV
 
+* https://www.mountainviewdevelopments.com/coming-soon/holy-spirit-church
 * https://thecoaster.net/2024/02/21/new-plan-unveiled-for-holy-spirit-church/
 
 ---
