@@ -61,6 +61,12 @@ VVV
 
 VVV
 
+Site
+
+<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-holy-spirit.jpg">
+
+VVV
+
 * https://thecoaster.net/2024/02/21/new-plan-unveiled-for-holy-spirit-church/
 
 ---
@@ -72,6 +78,12 @@ VVV
 VVV
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2931.423527694274!2d-74.01269130946285!3d40.22109361050194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972368908!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+Site
+
+<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
 
 ---
 
@@ -209,6 +221,12 @@ VVV
 Render
 
 <img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-407-lake.jpg">
+
+VVV
+
+Site
+
+<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-407-lake.jpg">
 
 VVV
 
