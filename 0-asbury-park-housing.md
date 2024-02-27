@@ -39,6 +39,12 @@ VVV
 
 VVV
 
+Render
+
+<img width="600" src="https://www.rhythmasburypark.com/images/rhythm_building/rhythm-rendering.jpg">
+
+VVV
+
 Site
 
 <img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-rhythm.jpg">
@@ -296,6 +302,7 @@ Site
 <img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-500-8th.jpg">
 
 ---
+# ??? (defunct?)
 
 213-215 1st Ave
 
@@ -305,10 +312,20 @@ VVV
 
 VVV
 
+Render
+
+<img width="600" src="https://www.nj.com/resizer/nlBNhY5zxsal91Qtl4v-UFMGXnM=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/F5IBSP5TUNH2LOTOXZ6RXFAAUM.jpg">
+
+VVV
+
 Site
 
 <img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-213-215-1st.jpg">
 
+VVV
+
+* https://thecoaster.net/2019/09/27/24-residential-units-proposed-for-abandoned-building-in-asbury-park/
+* https://www.nj.com/news/2019/01/heres-where-more-1m-condos-are-proposed-for-this-booming-jersey-shore-town.html
 
 ---
 
