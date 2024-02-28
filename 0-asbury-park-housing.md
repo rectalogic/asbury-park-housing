@@ -18,7 +18,7 @@ VVV
 
 Site
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-sunset-square.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-sunset-square.jpg">
 
 VVV
 
@@ -39,15 +39,15 @@ VVV
 
 VVV
 
-Render
+Site
 
-<img width="600" src="https://www.rhythmasburypark.com/images/rhythm_building/rhythm-rendering.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-rhythm.jpg">
 
 VVV
 
-Site
+Render
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-rhythm.jpg">
+<img width="95%" src="https://www.rhythmasburypark.com/images/rhythm_building/rhythm-rendering.jpg">
 
 VVV
 
@@ -67,15 +67,15 @@ VVV
 
 VVV
 
-Render
+Site
 
-<img width="600" src="https://images.squarespace-cdn.com/content/v1/60d8e509429e6c714c865712/1707947678177-83F0EHP4LX1WRAYA1V69/2024_0209+Holy+Spirit+Redevelopment_Page_04.jpg?format=600w">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-holy-spirit.jpg">
 
 VVV
 
-Site
+Render
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-holy-spirit.jpg">
+<img width="95%" src="https://images.squarespace-cdn.com/content/v1/60d8e509429e6c714c865712/1707947678177-83F0EHP4LX1WRAYA1V69/2024_0209+Holy+Spirit+Redevelopment_Page_04.jpg?format=600w">
 
 VVV
 
@@ -96,7 +96,7 @@ VVV
 
 Site
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
 
 ---
 
@@ -112,21 +112,21 @@ VVV
 
 VVV
 
-Render
-
-<img src="https://jerseydigs.com/wp-content/uploads/2021/08/new-condo-development-Asbury-Park-baltic-and-aegean.jpg" width="600" />
-
-VVV
-
 Site (Baltic)
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-baltic.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-baltic.jpg">
 
 VVV
 
 Site (Aegean)
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-aegean.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-aegean.jpg">
+
+VVV
+
+Render
+
+<img width="95%" src="https://jerseydigs.com/wp-content/uploads/2021/08/new-condo-development-Asbury-Park-baltic-and-aegean.jpg" />
 
 VVV
 
@@ -149,7 +149,7 @@ VVV
 
 Site
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-208-3rd.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-208-3rd.jpg">
 
 ---
 
@@ -165,7 +165,7 @@ VVV
 
 Site
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th.jpg">
 
 ---
 
@@ -179,17 +179,18 @@ VVV
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2768.753051931312!2d-74.00358752012451!3d40.22192525399899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708969013788!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-VVV
-
-Render
-
-<img src="https://qjv6a4.a2cdn1.secureserver.net/wp-content/uploads/2022/03/CREDIT_-Minno-Wasko-Architects-and-Planners-1.jpg" width="600" />
 
 VVV
 
 Site
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1150-kingsley.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1150-kingsley.jpg">
+
+VVV
+
+Render
+
+<img  width="95%" src="https://qjv6a4.a2cdn1.secureserver.net/wp-content/uploads/2022/03/CREDIT_-Minno-Wasko-Architects-and-Planners-1.jpg" />
 
 VVV
 
@@ -211,7 +212,7 @@ VVV
 
 Render
 
-<img src="https://jerseydigs.com/wp-content/uploads/2023/07/wonder-bar-condos-asbury-park.jpg" width="600" />
+<img width="95%" src="https://jerseydigs.com/wp-content/uploads/2023/07/wonder-bar-condos-asbury-park.jpg" />
 
 VVV
 
@@ -231,15 +232,15 @@ VVV
 
 VVV
 
-Render
+Site
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-407-lake.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-407-lake.jpg">
 
 VVV
 
-Site
+Render
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-407-lake.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-407-lake.jpg">
 
 VVV
 
@@ -259,9 +260,15 @@ VVV
 
 VVV
 
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1012-asbury.jpg">
+
+VVV
+
 Render
 
-<img src="https://jerseydigs.com/wp-content/uploads/2023/08/1012-Asbury-Avenue-Asbury-Park-Rendering.jpg" width="600" />
+<img width="95%" src="https://jerseydigs.com/wp-content/uploads/2023/08/1012-Asbury-Avenue-Asbury-Park-Rendering.jpg" />
 
 VVV
 
@@ -281,7 +288,7 @@ VVV
 
 Render
 
-<img src="https://images.squarespace-cdn.com/content/v1/656f346d71fbf1121405dfce/a4fbc5fa-78e6-4e9f-abe6-8f9f19816c66/248a6ec5-b498-4bdd-9777-7a953850be2f.jpg?format=600w" width="600" />
+<img width="95%" src="https://images.squarespace-cdn.com/content/v1/656f346d71fbf1121405dfce/a4fbc5fa-78e6-4e9f-abe6-8f9f19816c66/248a6ec5-b498-4bdd-9777-7a953850be2f.jpg?format=2016w" />
 
 VVV
 
@@ -299,7 +306,7 @@ VVV
 
 Site
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-500-8th.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-500-8th.jpg">
 
 ---
 # ??? (defunct?)
@@ -312,15 +319,15 @@ VVV
 
 VVV
 
-Render
+Site
 
-<img width="600" src="https://www.nj.com/resizer/nlBNhY5zxsal91Qtl4v-UFMGXnM=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/F5IBSP5TUNH2LOTOXZ6RXFAAUM.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-213-215-1st.jpg">
 
 VVV
 
-Site
+Render
 
-<img width="600" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-213-215-1st.jpg">
+<img width="95%" src="https://www.nj.com/resizer/nlBNhY5zxsal91Qtl4v-UFMGXnM=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/F5IBSP5TUNH2LOTOXZ6RXFAAUM.jpg">
 
 VVV
 
@@ -329,10 +336,26 @@ VVV
 
 ---
 
+1001 1st Ave (west side) 
+
+VVV
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2931.3660899989827!2d-74.01707492429306!3d40.22242106744315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263d97eaf677%3A0xd86cf671da71d702!2s1001%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709141321679!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1001-1st.jpg">
+
+VVV
+
+* https://re-nj.com/marcus-asbury-park-lot-zoned-for-80-apartments-trades-for-2-2-million/
+
+---
+
 https://public-api.qr-code-generator.com/v1/create/free?image_format=PNG&image_width=300&download=1&foreground_color=%23000000&frame_color=%23000000&frame_name=qrcg-scan-me-bottom-frame&qr_code_logo=&qr_code_pattern=rounded-2&qr_code_text=https%3A%2F%2Fgist-reveal.rectalogic.com%2F%3FmarkdownURL%3Dhttps%3A%2F%2Fgist.githubusercontent.com%2Frectalogic%2F76c529e1534800d0eb22a7fa9a5b5e82%2Fraw%2F0-asbury-park-housing.md
 
 across from Rhythm (lot on 7th) site-203-207-7th.jpg
 
-
-1001 1st Ave (west side) https://re-nj.com/marcus-asbury-park-lot-zoned-for-80-apartments-trades-for-2-2-million/
 700 Monroe https://jerseydigs.com/700-monroe-ave-asbury-park/
