@@ -8,6 +8,8 @@ note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercon
 
 1401 Kingsley St
 
+Pulte Homes
+
 28 townhomes
 
 VVV
@@ -30,6 +32,8 @@ VVV
 ## Rhythm
 
 202 7th Ave
+
+Roger Mumford Homes
 
 14 units
 
@@ -55,9 +59,11 @@ VVV
 
 ---
 
-## The Crossroads @ Asbury Park
+## The Crossroads
 
 701-705 2nd Ave (Holy Spirit church)
+
+Mountain View Developments
 
 90 apartments, cafe, offices
 
@@ -100,11 +106,13 @@ Site
 
 ---
 
-## Baltic & Aegean (K. Hovnanian)
+## Baltic & Aegean
 
 218 3rd Ave
 
-44 units
+K. Hovnanian
+
+44 units (Baltic)
 
 VVV
 
@@ -139,7 +147,7 @@ VVV
 
 208 3rd Ave
 
-note: owner 209-213 FOURTH AVE., LLC
+staging area?
 
 VVV
 
@@ -173,6 +181,8 @@ Site
 
 1150 Kingsley, across from Ocean Club
 
+Starfield Companies
+
 226 units
 
 VVV
@@ -198,15 +208,23 @@ VVV
 
 ---
 
-## Somerset Development
+## (Wonder Bar)
 
 115 4th Ave, next to Wonder Bar
 
-155 unit
+Inspired by Somerset Development
+
+155 units
 
 VVV
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2931.345539773978!2d-74.00030399999994!3d40.22289600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c226698b5f3b4f%3A0xf13cee52232fa392!2s115%204th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708879116501!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-somerset.jpg">
 
 VVV
 
@@ -217,12 +235,15 @@ Render
 VVV
 
 * https://www.roi-nj.com/2023/07/21/real_estate/inspired-by-somerset-development-gets-green-light-to-bring-ultralux-condos-and-retail-to-asbury-park/
+* https://inspiredsd.com/
 
 ---
 
-## Toll Brothers
+## Lake Ave
 
 407 Lake Ave
+
+Toll Brothers
 
 62 residences
 
@@ -248,9 +269,11 @@ VVV
 
 ---
 
-## ???
+## Asbury Ave
 
 1012 Asbury Ave
+
+Sackman
 
 101 units
 
@@ -280,6 +303,10 @@ VVV
 
 527 Bangs Ave
 
+Sackman
+
+42 apartments
+
 VVV
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2931.5882864076993!2d-74.01105829093868!3d40.21728562887761!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22639213e39ef%3A0x1612c7c056e794d6!2s527%20Bangs%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1708972779075!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -296,7 +323,11 @@ VVV
 
 ---
 
+## ???
+
 500 8th Ave
+
+private residence?
 
 VVV
 
@@ -309,9 +340,16 @@ Site
 <img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-500-8th.jpg">
 
 ---
-# ??? (defunct?)
+
+## 1st Ave (east side)
 
 213-215 1st Ave
+
+Regional Development Group
+
+24 units
+
+approved 2019, defunct?
 
 VVV
 
@@ -336,7 +374,11 @@ VVV
 
 ---
 
-1001 1st Ave (west side) 
+## 1st Ave (west side)
+
+1001 1st Ave
+
+80 units
 
 VVV
 
@@ -350,7 +392,37 @@ Site
 
 VVV
 
+Render
+
+<img width="95%" src="https://qjv6a4.a2cdn1.secureserver.net/wp-content/uploads/2021/08/1001-First-Avenue.jpg">
+
+VVV
+
 * https://re-nj.com/marcus-asbury-park-lot-zoned-for-80-apartments-trades-for-2-2-million/
+
+---
+
+## Monroe Ave
+
+700 Monroe Ave
+
+61 units
+
+Sackman
+
+VVV
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d692.2229254261822!2d-74.01135653809358!3d40.21853255510996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2263eafc10c23%3A0xaa80de6620a77d36!2s700%20Monroe%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709222972276!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+Render
+
+<img width="95%" src="https://jerseydigs.com/wp-content/uploads/2022/07/700-monroe-ave-asbury-park-1-1536x895.jpg">
+
+VVV
+
+* https://jerseydigs.com/700-monroe-ave-asbury-park/
 
 ---
 
@@ -358,4 +430,3 @@ https://public-api.qr-code-generator.com/v1/create/free?image_format=PNG&image_w
 
 across from Rhythm (lot on 7th) site-203-207-7th.jpg
 
-700 Monroe https://jerseydigs.com/700-monroe-ave-asbury-park/
