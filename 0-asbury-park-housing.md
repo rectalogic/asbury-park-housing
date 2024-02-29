@@ -1,6 +1,7 @@
 # Asbury Park Housing Construction
 
 note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/0-asbury-park-housing.md
+
 note: https://bit.ly/asburypark-housing
 
 ---
