@@ -249,7 +249,7 @@ Toll Brothers
 
 VVV
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d827.8128029429354!2d-74.00907263081967!3d40.210706698055326!2m3!1f0!2f39.22432057586382!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22638bc9624bb%3A0xc108c7cc594e1d80!2s407%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224277317!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d413.88409942912403!2d-74.00736515404941!3d40.21392872898651!2m3!1f0!2f39.358864642957705!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22638bc9624bb%3A0xc108c7cc594e1d80!2s407%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709225724318!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -426,7 +426,7 @@ VVV
 
 ---
 
-<img width="95%" src="https://public-api.qr-code-generator.com/v1/create/free?image_format=PNG&image_width=300&download=1&foreground_color=%23000000&frame_color=%23000000&frame_name=qrcg-scan-me-bottom-frame&qr_code_logo=&qr_code_pattern=rounded-2&qr_code_text=https%3A%2F%2Fgist-reveal.rectalogic.com%2F%3FmarkdownURL%3Dhttps%3A%2F%2Fgist.githubusercontent.com%2Frectalogic%2F76c529e1534800d0eb22a7fa9a5b5e82%2Fraw%2F0-asbury-park-housing.md" />
+<img src="https://public-api.qr-code-generator.com/v1/create/free?image_format=PNG&image_width=300&download=1&foreground_color=%23000000&frame_color=%23000000&frame_name=qrcg-scan-me-bottom-frame&qr_code_logo=&qr_code_pattern=rounded-2&qr_code_text=https%3A%2F%2Fgist-reveal.rectalogic.com%2F%3FmarkdownURL%3Dhttps%3A%2F%2Fgist.githubusercontent.com%2Frectalogic%2F76c529e1534800d0eb22a7fa9a5b5e82%2Fraw%2F0-asbury-park-housing.md" />
 
 across from Rhythm (lot on 7th) site-203-207-7th.jpg
 
