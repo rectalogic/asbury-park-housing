@@ -1,6 +1,7 @@
 # Asbury Park Housing Construction
 
 note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/0-asbury-park-housing.md
+note: https://bit.ly/asburypark-housing
 
 ---
 
@@ -90,22 +91,6 @@ VVV
 
 ---
 
-## ???
-
-700 1st Ave
-
-VVV
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206.2719880451914!2d-74.01119742036543!3d40.21949214446375!2m3!1f0!2f39.42752121315507!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224007147!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-VVV
-
-Site
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
-
----
-
 ## Baltic & Aegean
 
 218 3rd Ave
@@ -143,40 +128,6 @@ VVV
 
 ---
 
-## (Powhatan Hotel)
-
-208 3rd Ave
-
-staging area?
-
-VVV
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.33592610806227!2d-74.0036845153643!3d40.21882403488989!2m3!1f0!2f39.333215869950635!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641dfd3d0c5%3A0xa9efc056db92b83f!2s210%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224080860!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-VVV
-
-Site
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-208-3rd.jpg">
-
----
-
-## ???
-
-201-203 8th Ave
-
-VVV
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1125.0932567389343!2d-73.99965720000003!3d40.22863410000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266e8ecc2f0f%3A0x27dce58489b3da80!2s201-203%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224150541!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-VVV
-
-Site
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th.jpg">
-
----
-
 ## SURFHOUSE
 
 1150 Kingsley, across from Ocean Club
@@ -188,7 +139,6 @@ Starfield Companies
 VVV
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.0938290504273!2d-74.00123514322513!3d40.22215257902778!2m3!1f0!2f39.3332496893292!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224181913!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
 VVV
 
@@ -208,7 +158,7 @@ VVV
 
 ---
 
-## (Wonder Bar)
+## 4th Ave (Wonder Bar)
 
 115 4th Ave, next to Wonder Bar
 
@@ -323,24 +273,6 @@ VVV
 
 ---
 
-## ???
-
-500 8th Ave
-
-private residence?
-
-VVV
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d205.5820407975698!2d-74.00482598370247!3d40.22748784910395!2m3!1f0!2f39.47185897908166!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266ce5522baf%3A0x4d9468d09f32251e!2s500%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224381144!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-VVV
-
-Site
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-500-8th.jpg">
-
----
-
 ## 1st Ave (east side)
 
 213-215 1st Ave
@@ -426,7 +358,79 @@ VVV
 
 ---
 
-<img src="https://public-api.qr-code-generator.com/v1/create/free?image_format=PNG&image_width=300&download=1&foreground_color=%23000000&frame_color=%23000000&frame_name=qrcg-scan-me-bottom-frame&qr_code_logo=&qr_code_pattern=rounded-2&qr_code_text=https%3A%2F%2Fgist-reveal.rectalogic.com%2F%3FmarkdownURL%3Dhttps%3A%2F%2Fgist.githubusercontent.com%2Frectalogic%2F76c529e1534800d0eb22a7fa9a5b5e82%2Fraw%2F0-asbury-park-housing.md" />
+## (1st Ave) ??
+
+700 1st Ave
+
+VVV
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206.2719880451914!2d-74.01119742036543!3d40.21949214446375!2m3!1f0!2f39.42752121315507!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224007147!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
+
+---
+
+## (Powhatan Hotel) ??
+
+208 3rd Ave
+
+staging area?
+
+VVV
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.33592610806227!2d-74.0036845153643!3d40.21882403488989!2m3!1f0!2f39.333215869950635!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641dfd3d0c5%3A0xa9efc056db92b83f!2s210%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224080860!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-208-3rd.jpg">
+
+---
+
+## (8th & Kingsley) ??
+
+201-203 8th Ave
+
+VVV
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1125.0932567389343!2d-73.99965720000003!3d40.22863410000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2266e8ecc2f0f%3A0x27dce58489b3da80!2s201-203%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224150541!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th.jpg">
+
+---
+
+## (8th Ave) ??
+
+500 8th Ave
+
+private residence?
+
+VVV
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d205.5820407975698!2d-74.00482598370247!3d40.22748784910395!2m3!1f0!2f39.47185897908166!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266ce5522baf%3A0x4d9468d09f32251e!2s500%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224381144!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-500-8th.jpg">
+
+---
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/qr.png">
+
+https://bit.ly/asburypark-housing
+
+---
 
 across from Rhythm (lot on 7th) site-203-207-7th.jpg
 
