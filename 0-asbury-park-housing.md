@@ -138,7 +138,7 @@ VVV
 
 1150 Kingsley, across from Ocean Club
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.0938290504273!2d-74.00123514322513!3d40.22215257902778!2m3!1f0!2f39.3332496893292!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224181913!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d824.2592768898467!2d-74.00376592429332!3d40.215950618986774!2m3!1f0!2f39.22455845926302!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266a044993cf%3A0x87086dec6195b018!2s1150%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1710255197295!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -378,7 +378,7 @@ VVV
 
 VVV
 
-no info
+apartments? multi-family?
 
 VVV
 
@@ -446,7 +446,10 @@ Site
 
 https://bit.ly/asburypark-housing
 
+<!--
+
 ---
 
 across from Rhythm (lot on 7th) site-203-207-7th.jpg
 
+-->
