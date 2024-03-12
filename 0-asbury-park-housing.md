@@ -138,7 +138,7 @@ VVV
 
 Kingsley between 3rd & 4th, across from Ocean Club
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99.35207392042503!2d-74.00196518942505!3d40.221614727566035!2m3!1f0!2f39.56228782070321!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266a0e23136b%3A0xd5846b0424fdf20!2s1101%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1710257950717!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d202.56161737442017!2d-74.00164399999997!3d40.22085075698952!2m3!1f0!2f39.48606657605809!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266a0e23136b%3A0xd5846b0424fdf20!2s1101%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1710258468966!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
