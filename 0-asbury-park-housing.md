@@ -16,19 +16,14 @@ note: https://bit.ly/asburypark-housing
 
 VVV
 
-Pulte Homes
-
-28 townhomes
+* Pulte Homes, 28 townhomes
+* [Sunset Square developers site](https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274)
 
 VVV
 
 Site
 
 <img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-sunset-square.jpg">
-
-VVV
-
-* https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274
 
 ---
 
@@ -40,9 +35,8 @@ VVV
 
 VVV
 
-Roger Mumford Homes
-
-14 units
+* Roger Mumford Homes, 14 units
+* https://www.rhythmasburypark.com/
 
 VVV
 
@@ -56,10 +50,6 @@ Render
 
 <img width="95%" src="https://www.rhythmasburypark.com/images/rhythm_building/rhythm-rendering.jpg">
 
-VVV
-
-* https://www.rhythmasburypark.com/
-
 ---
 
 ## The Crossroads
@@ -70,9 +60,9 @@ VVV
 
 VVV
 
-Mountain View Developments
-
-90 apartments, cafe, offices
+* Mountain View Developments, 90 apartments, cafe, offices
+* [Developers site](https://www.mountainviewdevelopments.com/coming-soon/holy-spirit-church)
+* [Coaster article](https://thecoaster.net/2024/02/21/new-plan-unveiled-for-holy-spirit-church/)
 
 VVV
 
@@ -86,11 +76,6 @@ Render
 
 <img width="95%" src="https://images.squarespace-cdn.com/content/v1/60d8e509429e6c714c865712/1707947678177-83F0EHP4LX1WRAYA1V69/2024_0209+Holy+Spirit+Redevelopment_Page_04.jpg?format=600w">
 
-VVV
-
-* https://www.mountainviewdevelopments.com/coming-soon/holy-spirit-church
-* https://thecoaster.net/2024/02/21/new-plan-unveiled-for-holy-spirit-church/
-
 ---
 
 ## Baltic & Aegean
@@ -101,11 +86,10 @@ VVV
 
 VVV
 
-K. Hovnanian
-
-44 units (Baltic)
-
-27 units (Aegean)
+* K. Hovnanian, Baltic 44, Aegean 27 units
+* [Baltic website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-baltic)
+* [Aegean website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-aegean)
+* [JerseyDigs article](https://jerseydigs.com/k-hovnanian-homes-to-pitch-44-unit-development-in-asbury-park/)
 
 VVV
 
@@ -125,12 +109,6 @@ Render
 
 <img width="95%" src="https://jerseydigs.com/wp-content/uploads/2021/08/new-condo-development-Asbury-Park-baltic-and-aegean.jpg" />
 
-VVV
-
-* https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-baltic
-* https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-aegean
-* https://jerseydigs.com/k-hovnanian-homes-to-pitch-44-unit-development-in-asbury-park/
-
 ---
 
 ## SURFHOUSE
@@ -141,9 +119,9 @@ Kingsley between 3rd & 4th, across from Ocean Club
 
 VVV
 
-Starfield Companies
-
-226 units
+* Starfield Companies, 226 units
+* https://www.surfhouseasburypark.com/
+* [JerseyDigs article](https://jerseydigs.com/surfhouse-asbury-park-financing/)
 
 VVV
 
@@ -157,11 +135,6 @@ Render
 
 <img  width="95%" src="https://static.wixstatic.com/media/b5d75c_c8243aeb193d42e78931afdf7ea643e1~mv2.jpg/v1/fit/w_3840,h_2162,q_90/b5d75c_c8243aeb193d42e78931afdf7ea643e1~mv2.webp" />
 
-VVV
-
-* https://www.starfieldcompanies.com/surfhouse
-* https://jerseydigs.com/surfhouse-asbury-park-financing/
-
 ---
 
 ## 4th Ave (Wonder Bar)
@@ -172,9 +145,9 @@ VVV
 
 VVV
 
-Inspired by Somerset Development (Bellworks developer)
-
-155 units
+* Inspired (Bellworks developer), 155 units
+* [Developers website](https://inspiredsd.com/)
+* [JerseyDigs article](https://jerseydigs.com/wonder-bar-condos-asbury-park/)
 
 VVV
 
@@ -188,11 +161,6 @@ Render
 
 <img width="95%" src="https://jerseydigs.com/wp-content/uploads/2023/07/wonder-bar-condos-asbury-park.jpg" />
 
-VVV
-
-* https://jerseydigs.com/wonder-bar-condos-asbury-park/
-* https://inspiredsd.com/
-
 ---
 
 ## 400 Lake Ave
@@ -200,11 +168,11 @@ VVV
 400 Lake Ave
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.6461223339429!2d-74.00872956006293!3d40.211282563625716!2m3!1f0!2f39.24887362513789!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22638a3cd47bd%3A0xbec6aeb3a2e0b6f1!2s400%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718735415699!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 VVV
 
-Toll Brothers
-
-62 residences
+* Toll Brothers, 62 residences
+* [NJ Biz article](https://njbiz.com/istars-next-phase-in-asbury-park-promises-another-300m-investment/)
 
 VVV
 
@@ -218,10 +186,6 @@ Render
 
 <img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-400-lake.jpg">
 
-VVV
-
-* https://njbiz.com/istars-next-phase-in-asbury-park-promises-another-300m-investment/
-
 ---
 
 ## Asbury Ave
@@ -232,9 +196,8 @@ VVV
 
 VVV
 
-Sackman
-
-101 units
+* Sackman, 101 units
+* [JerseyDigs article](https://jerseydigs.com/1012-asbury-avenue-asbury-park/)
 
 VVV
 
@@ -248,10 +211,6 @@ Render
 
 <img width="95%" src="https://jerseydigs.com/wp-content/uploads/2023/08/1012-Asbury-Avenue-Asbury-Park-Rendering.jpg" />
 
-VVV
-
-* https://jerseydigs.com/1012-asbury-avenue-asbury-park/
-
 ---
 
 ## 527Bangs
@@ -262,19 +221,14 @@ VVV
 
 VVV
 
-Sackman
-
-42 apartments
+* Sackman, 42 apartments
+* https://www.527bangs.com/
 
 VVV
 
 Site
 
 <img width="95%" src="https://images.squarespace-cdn.com/content/v1/656f346d71fbf1121405dfce/a4fbc5fa-78e6-4e9f-abe6-8f9f19816c66/248a6ec5-b498-4bdd-9777-7a953850be2f.jpg?format=2016w" />
-
-VVV
-
-* https://www.527bangs.com/apartments
 
 ---
 
@@ -286,11 +240,10 @@ VVV
 
 VVV
 
-Regional Development Group
-
-24 units
-
-approved 2019, defunct?
+* Regional Development Group, 24 units
+* approved in 2019, defunct?
+* [Coaster article](https://thecoaster.net/2019/09/27/24-residential-units-proposed-for-abandoned-building-in-asbury-park/)
+* [NJ.com article](https://www.nj.com/news/2019/01/heres-where-more-1m-condos-are-proposed-for-this-booming-jersey-shore-town.html)
 
 VVV
 
@@ -304,11 +257,6 @@ Render
 
 <img width="95%" src="https://www.nj.com/resizer/nlBNhY5zxsal91Qtl4v-UFMGXnM=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/F5IBSP5TUNH2LOTOXZ6RXFAAUM.jpg">
 
-VVV
-
-* https://thecoaster.net/2019/09/27/24-residential-units-proposed-for-abandoned-building-in-asbury-park/
-* https://www.nj.com/news/2019/01/heres-where-more-1m-condos-are-proposed-for-this-booming-jersey-shore-town.html
-
 ---
 
 ## 1st Ave (west side)
@@ -319,7 +267,8 @@ VVV
 
 VVV
 
-80 units
+* 80 units
+* [RealEstate NJ article](https://re-nj.com/marcus-asbury-park-lot-zoned-for-80-apartments-trades-for-2-2-million/)
 
 VVV
 
@@ -333,10 +282,6 @@ Render
 
 <img width="95%" src="https://qjv6a4.a2cdn1.secureserver.net/wp-content/uploads/2021/08/1001-First-Avenue.jpg">
 
-VVV
-
-* https://re-nj.com/marcus-asbury-park-lot-zoned-for-80-apartments-trades-for-2-2-million/
-
 ---
 
 ## Monroe Ave
@@ -347,9 +292,8 @@ VVV
 
 VVV
 
-61 units
-
-Sackman
+* Sackman, 61 units
+* [JerseyDigs article](https://jerseydigs.com/700-monroe-ave-asbury-park/)
 
 VVV
 
@@ -363,10 +307,6 @@ Render
 
 <img width="95%" src="https://jerseydigs.com/wp-content/uploads/2022/07/700-monroe-ave-asbury-park-1-1536x895.jpg">
 
-VVV
-
-* https://jerseydigs.com/700-monroe-ave-asbury-park/
-
 ---
 
 ## 1st Ave
@@ -377,7 +317,7 @@ VVV
 
 VVV
 
-11 units
+* 11 units
 
 VVV
 
