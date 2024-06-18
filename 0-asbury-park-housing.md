@@ -30,7 +30,6 @@ VVV
 
 * https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274
 
-
 ---
 
 ## Rhythm
@@ -150,7 +149,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1150-kingsley.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-surfhouse.jpg">
 
 VVV
 
@@ -191,17 +190,16 @@ Render
 
 VVV
 
-* https://www.roi-nj.com/2023/07/21/real_estate/inspired-by-somerset-development-gets-green-light-to-bring-ultralux-condos-and-retail-to-asbury-park/
+* https://jerseydigs.com/wonder-bar-condos-asbury-park/
 * https://inspiredsd.com/
 
 ---
 
-## Lake Ave
+## 400 Lake Ave
 
-407 Lake Ave
+400 Lake Ave
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d413.88409942912403!2d-74.00736515404941!3d40.21392872898651!2m3!1f0!2f39.358864642957705!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22638bc9624bb%3A0xc108c7cc594e1d80!2s407%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709225724318!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.6461223339429!2d-74.00872956006293!3d40.211282563625716!2m3!1f0!2f39.24887362513789!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22638a3cd47bd%3A0xbec6aeb3a2e0b6f1!2s400%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718735415699!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 VVV
 
 Toll Brothers
@@ -212,13 +210,13 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-407-lake.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-400-lake.jpg">
 
 VVV
 
 Render
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-407-lake.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-400-lake.jpg">
 
 VVV
 
@@ -371,15 +369,13 @@ VVV
 
 ---
 
-## (1st Ave) ??
+## 1st Ave
 
 700 1st Ave
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206.2719880451914!2d-74.01119742036543!3d40.21949214446375!2m3!1f0!2f39.42752121315507!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224007147!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
-
-apartments? multi-family?
 
 11 units
 
@@ -388,6 +384,14 @@ VVV
 Site
 
 <img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
+
+---
+
+<img width="50%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/qr.png">
+
+https://bit.ly/asburypark-housing
+
+<!--
 
 ---
 
@@ -449,13 +453,6 @@ Site
 
 <img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-500-8th.jpg">
 
----
-
-<img width="50%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/qr.png">
-
-https://bit.ly/asburypark-housing
-
-<!--
 
 ---
 
