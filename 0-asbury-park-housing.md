@@ -284,6 +284,25 @@ Render
 
 ---
 
+## 1201 Memorial
+
+1201 Memorial Dr
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6092.537396784629!2d-74.01451296006438!3d40.22532757158979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c22615d168e0a7%3A0xe7462cf597e3bf55!2s1201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e0!3m2!1sen!2sus!4v1718828714428!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* Douglas Development Corp, 126 units plus retail
+* [Coaster article](https://thecoaster.net/2024/06/19/in-asbury-park-vote-on-memorial-drive-development-plan-scheduled-june-26/)
+
+VVV
+
+Render
+
+<img width="95%" src="https://thecoaster.net/wp-content/uploads/2024/06/MG_6688.jpeg">
+
+---
+
 ## Monroe Ave
 
 700 Monroe Ave
