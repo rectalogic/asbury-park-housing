@@ -16,7 +16,8 @@ note: https://bit.ly/asburypark-housing
 
 VVV
 
-* Pulte Homes, 28 townhomes
+* Pulte Homes, mid-2024
+* 28 townhomes w/garage, from $900K
 * [Sunset Square developers site](https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274)
 
 VVV
@@ -29,13 +30,14 @@ Site
 
 ## Rhythm
 
-202 7th Ave
+204 7th Ave
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.0984369274229!2d-74.00013672881208!3d40.2239066155654!2m3!1f0!2f39.29770912385798!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266eadd67745%3A0xf0da195a19b21e86!2s202%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709223925006!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d748.8629017944913!2d-74.00278816006585!3d40.22144014985113!2m3!1f0!2f39.248879794024084!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266eaedb0d13%3A0x4525013642a65e40!2s204%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718897394498!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
-* Roger Mumford Homes, 14 units
+* Roger Mumford Homes
+* 14 residences w/2 underground parking spaces, from $1.25M
 * https://www.rhythmasburypark.com/
 
 VVV
@@ -60,7 +62,9 @@ Render
 
 VVV
 
-* Mountain View Developments, 90 apartments, cafe, offices
+* Mountain View Developments
+* 90 apartments (including low/moderate income), 60 parking spaces
+* cafe/retail, offices, community center/stage
 * [Developers site](https://www.mountainviewdevelopments.com/coming-soon/holy-spirit-church)
 * [Coaster article](https://thecoaster.net/2024/02/21/new-plan-unveiled-for-holy-spirit-church/)
 
@@ -86,9 +90,10 @@ Render
 
 VVV
 
-* K. Hovnanian, Baltic 44, Aegean 27 units
-* [Baltic website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-baltic)
-* [Aegean website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-aegean)
+* K. Hovnanian
+* Baltic 17 condos w/garage from upper $900K
+* Aegean 27 condos w/garage from lower $700K
+* [Baltic website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-baltic) [Aegean website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-aegean)
 * [JerseyDigs article](https://jerseydigs.com/k-hovnanian-homes-to-pitch-44-unit-development-in-asbury-park/)
 
 VVV
@@ -105,9 +110,15 @@ Site (Aegean)
 
 VVV
 
-Render
+Baltic Render
 
-<img width="95%" src="https://jerseydigs.com/wp-content/uploads/2021/08/new-condo-development-Asbury-Park-baltic-and-aegean.jpg" />
+<img width="95%" src="https://khov-cdn.azurefd.net/azure/sitefinitylibraries/images/default-source/images/nj/the-baltic/watermark-images-dca/interior-renderings/bond-loft-1-spec-3/2880x1700---media-gallery-and-aspot/aspot_artist-rendering_0015_129785_the-baltic_exterior-building.jpg?sfvrsn=d0c25d85_6&build=6111&encoder=wic&useresizingpipeline=true&width=1000" />
+
+VVV
+
+Aegean Render
+
+<img width="95%" src="https://khov-cdn.azurefd.net/azure/sitefinitylibraries/images/default-source/images/nj/the-aegean/dca-watermark-images/2880x1700---media-gallery-and-aspot/139819_the-aegean_exterior-building.jpg?sfvrsn=b3283b85_2&build=6111&encoder=wic&useresizingpipeline=true&width=1000" />
 
 ---
 
@@ -119,7 +130,8 @@ Kingsley between 3rd & 4th, across from Ocean Club
 
 VVV
 
-* Starfield Companies, 226 units
+* Starfield Companies
+* 206 multifamily units, 20 luxury rental townhomes, 3,500sf retail
 * https://www.surfhouseasburypark.com/
 * [JerseyDigs article](https://jerseydigs.com/surfhouse-asbury-park-financing/)
 
@@ -145,7 +157,8 @@ Render
 
 VVV
 
-* Inspired (Bellworks developer), 155 units
+* Inspired by Somerset (Bellworks developer)
+* 155 residences, 270 interior parking spaces, 9,340sf retail
 * [Developers website](https://inspiredsd.com/)
 * [JerseyDigs article](https://jerseydigs.com/wonder-bar-condos-asbury-park/)
 
@@ -171,7 +184,8 @@ Render
 
 VVV
 
-* Toll Brothers, 62 residences
+* Toll Brothers
+* 62 residences
 * [NJ Biz article](https://njbiz.com/istars-next-phase-in-asbury-park-promises-another-300m-investment/)
 
 VVV
@@ -196,7 +210,9 @@ Render
 
 VVV
 
-* Sackman, 101 units
+* Sackman
+* 101 units, 55% affordable, 101 parking spaces
+* 8,300sf community space, 11 storefronts
 * [JerseyDigs article](https://jerseydigs.com/1012-asbury-avenue-asbury-park/)
 
 VVV
@@ -221,7 +237,8 @@ Render
 
 VVV
 
-* Sackman, 42 apartments
+* Sackman
+* 42 rental apartments, dedicated parking available
 * https://www.527bangs.com/
 
 VVV
@@ -240,10 +257,9 @@ Site
 
 VVV
 
-* Regional Development Group, 24 units
-* approved in 2019, defunct?
-* [Coaster article](https://thecoaster.net/2019/09/27/24-residential-units-proposed-for-abandoned-building-in-asbury-park/)
-* [NJ.com article](https://www.nj.com/news/2019/01/heres-where-more-1m-condos-are-proposed-for-this-booming-jersey-shore-town.html)
+* Regional Development Group
+* 24 condos, 41 parking spaces, approved in 2019, defunct?
+* [Coaster article](https://thecoaster.net/2019/09/27/24-residential-units-proposed-for-abandoned-building-in-asbury-park/) [NJ.com article](https://www.nj.com/news/2019/01/heres-where-more-1m-condos-are-proposed-for-this-booming-jersey-shore-town.html)
 
 VVV
 
@@ -267,8 +283,9 @@ Render
 
 VVV
 
-* 80 units
+* 80 apartments (revised to 60?), 94 parking spaces, 2 retail spaces
 * [RealEstate NJ article](https://re-nj.com/marcus-asbury-park-lot-zoned-for-80-apartments-trades-for-2-2-million/)
+* [APP article](https://www.app.com/story/news/local/redevelopment/2023/10/30/asbury-park-apartment-building-first-avenue-parking/71346422007/)
 
 VVV
 
@@ -280,7 +297,8 @@ VVV
 
 Render
 
-<img width="95%" src="https://qjv6a4.a2cdn1.secureserver.net/wp-content/uploads/2021/08/1001-First-Avenue.jpg">
+<img width="95%" src="https://www.gannett-cdn.com/authoring/authoring-images/2023/10/26/PAPP/71328129007-asbury-1.jpg?crop=1912,1075,x0,y0&width=1200&disable=upscale&format=pjpg&auto=webp">
+
 
 ---
 
@@ -292,8 +310,9 @@ Render
 
 VVV
 
-* Douglas Development Corp, 126 units plus retail
-* [Coaster article](https://thecoaster.net/2024/06/19/in-asbury-park-vote-on-memorial-drive-development-plan-scheduled-june-26/)
+* Douglas Development Corp
+* 126 units, 132 parking spots, plus retail
+* [Coaster article](https://thecoaster.net/2024/06/19/in-asbury-park-vote-on-memorial-drive-development-plan-scheduled-june-26/) - public hearing June 26
 
 VVV
 
@@ -311,7 +330,8 @@ Render
 
 VVV
 
-* Sackman, 61 units
+* Sackman
+* 61 units, 13 affordable, 34 space garage, 1024sf retail
 * [JerseyDigs article](https://jerseydigs.com/700-monroe-ave-asbury-park/)
 
 VVV
