@@ -18,7 +18,7 @@ VVV
 
 * Pulte Homes, mid-2024
 * 28 townhomes w/garage, from $900K
-* [Sunset Square developers site](https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274)
+* [Sunset Square developers site](https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274) <!-- .element: data-preview-link -->
 
 VVV
 
