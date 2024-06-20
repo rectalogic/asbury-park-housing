@@ -37,7 +37,7 @@ Site
 VVV
 
 * Roger Mumford Homes
-* 14 residences w/2 underground parking spaces, from $1.25M
+* 14 residences each w/2 underground parking spaces, from $1.25M
 * https://www.rhythmasburypark.com/
 
 VVV
@@ -93,7 +93,7 @@ VVV
 * K. Hovnanian
 * Baltic 17 condos w/garage from upper $900K
 * Aegean 27 condos w/garage from lower $700K
-* [Baltic website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-baltic) [Aegean website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-aegean)
+* [Baltic website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-baltic), [Aegean website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-aegean)
 * [JerseyDigs article](https://jerseydigs.com/k-hovnanian-homes-to-pitch-44-unit-development-in-asbury-park/)
 
 VVV
@@ -159,6 +159,7 @@ VVV
 
 * Inspired by Somerset (Bellworks developer)
 * 155 residences, 270 interior parking spaces, 9,340sf retail
+* no more Yappy Hour play yard
 * [Developers website](https://inspiredsd.com/)
 * [JerseyDigs article](https://jerseydigs.com/wonder-bar-condos-asbury-park/)
 
@@ -185,7 +186,7 @@ Render
 VVV
 
 * Toll Brothers
-* 62 residences
+* 62 residences, 1-2 car garages
 * [NJ Biz article](https://njbiz.com/istars-next-phase-in-asbury-park-promises-another-300m-investment/)
 
 VVV
@@ -239,6 +240,7 @@ VVV
 
 * Sackman
 * 42 rental apartments, dedicated parking available
+* retail (Hadaka, Bangs Boutique, New Hour already moved in)
 * https://www.527bangs.com/
 
 VVV
