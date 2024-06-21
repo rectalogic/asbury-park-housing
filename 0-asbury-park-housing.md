@@ -65,6 +65,7 @@ VVV
 * Mountain View Developments
 * 90 apartments (including low/moderate income), 60 parking spaces
 * cafe/retail, offices, community center/stage
+* alternative plan: demolish church, build 6 multifamily units
 * [Developers site](https://www.mountainviewdevelopments.com/coming-soon/holy-spirit-church)
 * [Coaster article](https://thecoaster.net/2024/02/21/new-plan-unveiled-for-holy-spirit-church/)
 
