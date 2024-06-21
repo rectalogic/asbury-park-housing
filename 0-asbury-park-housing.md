@@ -318,6 +318,12 @@ VVV
 
 VVV
 
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1201-memorial.jpg">
+
+VVV
+
 Render
 
 <img width="95%" src="https://thecoaster.net/wp-content/uploads/2024/06/MG_6688.jpeg">
@@ -367,6 +373,8 @@ Site
 <img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
 
 ---
+
+Total: over 1000 units
 
 <img width="50%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/qr.png">
 
