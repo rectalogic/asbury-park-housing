@@ -16,7 +16,7 @@ note: https://bit.ly/asburypark-housing
 
 VVV
 
-* Pulte Homes, mid-2024
+* Pulte Homes
 * 28 townhomes w/garage, from $900K
 * [Sunset Square developers site](https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274)
 
@@ -25,6 +25,12 @@ VVV
 Site
 
 <img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-sunset-square.jpg">
+
+VVV
+
+Render
+
+<img width="95%" src="https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/dlpnu75D/V/639023/13">
 
 ---
 
@@ -51,6 +57,43 @@ VVV
 Render
 
 <img width="95%" src="https://www.rhythmasburypark.com/images/rhythm_building/rhythm-rendering.jpg">
+
+---
+
+## Asbury Park Luxury Apartments
+
+201 6th Ave
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d126.8637920945285!2d-73.99978386715544!3d40.225270970310184!2m2!1f0!2f45!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22669534c60fd%3A0xe9244ca48a0e3ab3!2s201%20Sixth%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928357523!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* Asbury Living
+* 103 units
+* Under [TRC review](https://www.cityofasburypark.com/257/Planning-Redevelopment)
+
+---
+
+## The Delta
+
+block Kingsley & Webb and 7th & 8th
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.7610724485712!2d-74.00068167043611!3d40.22628479323128!2m3!1f0!2f39.49923474880603!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e99bfbc59%3A0x35604517547a8b72!2s202-210%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928762094!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+* APW Redeveloper & Asbury Partners
+* 45 townhomes
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-203-207-7th.jpg">
+
+VVV
+
+Render
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-delta.png">
 
 ---
 
@@ -132,7 +175,7 @@ Kingsley between 3rd & 4th, across from Ocean Club
 VVV
 
 * Starfield Companies
-* 206 multifamily units, 20 luxury rental townhomes, 3,500sf retail
+* 206 multifamily units, 20 luxury rental townhomes, 4600sf retail
 * https://www.surfhouseasburypark.com/
 * [JerseyDigs article](https://jerseydigs.com/surfhouse-asbury-park-financing/)
 
@@ -159,7 +202,7 @@ Render
 VVV
 
 * Inspired by Somerset (Bellworks developer)
-* 155 residences, 270 interior parking spaces, 9,340sf retail
+* 155 residences, 270 interior parking spaces, 9,390sf retail
 * no more Yappy Hour play yard
 * [Developers website](https://inspiredsd.com/)
 * [JerseyDigs article](https://jerseydigs.com/wonder-bar-condos-asbury-park/)
@@ -252,6 +295,71 @@ Site
 
 ---
 
+## The Views at North Shore
+
+201-203 8th Ave
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.6959664953174!2d-74.00029270999633!3d40.22729309253233!2m3!1f0!2f39.49835402053341!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e90315a77%3A0xe1760e001b2f683a!2s201%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728925484571!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* Asbury Partners and APW Redeveloper
+* 54 units, 27 units each in 2 buildings, 109 parking spaces
+* [Coaster article](https://thecoaster.net/2024/09/25/2-residential-buildings-planned-at-citys-north-end/)
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th.jpg">
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th-2.jpg">
+
+---
+
+## The Rail at Asbury Park
+
+201 Memorial Dr
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184.96112680749502!2d-74.01580666382378!3d40.21537440187495!2m3!1f0!2f39.468315356385446!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263ba85d807f%3A0xc58705fb07fde856!2s201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728926717511!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* Denholtz Properties
+* 125 units (25 affordable), 5000 sf commercial space
+* [Developers site](https://denholtz.com/property/rail-at-asbury/)
+
+---
+
+## ???
+
+900 Springwood Ave
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.39256283047143!2d-74.01570160939093!3d40.213133558511814!2m3!1f0!2f39.49908617261902!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263a89c929c3%3A0x3212dc2e746452ac!2s900%20Springwood%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728927056756!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* Memorial Avenue Holdings
+* 92 units (19 affordable), 11,873 sf commercial
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-900-springwood.png">
+
+VVV
+
+Render
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-900-springwood.png">
+
+---
+
 ## 1st Ave (east side)
 
 213-215 1st Ave
@@ -340,7 +448,7 @@ Render
 VVV
 
 * Sackman
-* 61 units, 13 affordable, 34 space garage, 1024sf retail
+* 60 units, 12 affordable, 34 space garage, 1024sf retail
 * [JerseyDigs article](https://jerseydigs.com/700-monroe-ave-asbury-park/)
 
 VVV
@@ -380,3 +488,5 @@ Total: over 1000 units
 <img width="50%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/qr.png">
 
 https://bit.ly/asburypark-housing
+
+[Asbury Park Planning & Redevelopment](https://www.cityofasburypark.com/257/Planning-Redevelopment)
