@@ -8,29 +8,30 @@ note: https://bit.ly/asburypark-housing
 
 ---
 
-## Sunset Square
+## SURFHOUSE
 
-1401 Kingsley St
+Kingsley between 3rd & 4th, across from Ocean Club
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.44661719107535!2d-74.00147534888619!3d40.22242577716042!2m3!1f0!2f39.29757284354271!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709223884151!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d202.56161737442017!2d-74.00164399999997!3d40.22085075698952!2m3!1f0!2f39.48606657605809!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266a0e23136b%3A0xd5846b0424fdf20!2s1101%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1710258468966!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
-* Pulte Homes
-* 28 townhomes w/garage, from $900K
-* [Sunset Square developers site](https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274)
+* Starfield Companies
+* 206 multifamily units, 20 luxury rental townhomes, 4600sf retail
+* https://www.surfhouseasburypark.com/
+* [JerseyDigs article](https://jerseydigs.com/surfhouse-asbury-park-financing/)
 
 VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-sunset-square.jpg">
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-surfhouse.jpg">
 
 VVV
 
 Render
 
-<img width="95%" src="https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/dlpnu75D/V/639023/13">
+<img  width="95%" src="https://static.wixstatic.com/media/b5d75c_c8243aeb193d42e78931afdf7ea643e1~mv2.jpg/v1/fit/w_3840,h_2162,q_90/b5d75c_c8243aeb193d42e78931afdf7ea643e1~mv2.webp" />
 
 ---
 
@@ -60,9 +61,75 @@ Render
 
 ---
 
+## Baltic & Aegean
+
+218 3rd Ave
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.3941081400262!2d-74.00450203104658!3d40.21835486965844!2m3!1f0!2f39.29713358062763!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641d4a1d39f%3A0x7b970c13b2e9f25f!2s218%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224040534!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* K. Hovnanian
+* Baltic 17 condos w/garage from upper $900K
+* Aegean 27 condos w/garage from lower $700K
+* [Baltic website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-baltic), [Aegean website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-aegean)
+* [JerseyDigs article](https://jerseydigs.com/k-hovnanian-homes-to-pitch-44-unit-development-in-asbury-park/)
+
+VVV
+
+Site (Baltic)
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-baltic.jpg">
+
+VVV
+
+Site (Aegean)
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-aegean.jpg">
+
+VVV
+
+Baltic Render
+
+<img width="95%" src="https://khov-cdn.azurefd.net/azure/sitefinitylibraries/images/default-source/images/nj/the-baltic/watermark-images-dca/interior-renderings/bond-loft-1-spec-3/2880x1700---media-gallery-and-aspot/aspot_artist-rendering_0015_129785_the-baltic_exterior-building.jpg?sfvrsn=d0c25d85_6&build=6111&encoder=wic&useresizingpipeline=true&width=1000" />
+
+VVV
+
+Aegean Render
+
+<img width="95%" src="https://khov-cdn.azurefd.net/azure/sitefinitylibraries/images/default-source/images/nj/the-aegean/dca-watermark-images/2880x1700---media-gallery-and-aspot/139819_the-aegean_exterior-building.jpg?sfvrsn=b3283b85_2&build=6111&encoder=wic&useresizingpipeline=true&width=1000" />
+
+---
+
+## Sunset Square
+
+1401 Kingsley St
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.44661719107535!2d-74.00147534888619!3d40.22242577716042!2m3!1f0!2f39.29757284354271!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709223884151!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* Pulte Homes
+* 28 townhomes w/garage, from $900K
+* [Sunset Square developers site](https://www.pulte.com/homes/new-jersey/monmouth-county/asbury-park/sunset-square-211274)
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-sunset-square.jpg">
+
+VVV
+
+Render
+
+<img width="95%" src="https://res.cloudinary.com/dv0jqjrc3/image/fetch/ar_1.5,c_fill,f_auto,q_auto,w_768/https://pultegroup.picturepark.com/Go/dlpnu75D/V/639023/13">
+
+---
+
 ## Asbury Park Luxury Apartments
 
-201 6th Ave
+201 6th Ave (behind Rhythm)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d126.8637920945285!2d-73.99978386715544!3d40.225270970310184!2m2!1f0!2f45!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22669534c60fd%3A0xe9244ca48a0e3ab3!2s201%20Sixth%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928357523!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -126,70 +193,22 @@ Render
 
 ---
 
-## Baltic & Aegean
+## 316 Main Street
 
-218 3rd Ave
+316 Main St
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.3941081400262!2d-74.00450203104658!3d40.21835486965844!2m3!1f0!2f39.29713358062763!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641d4a1d39f%3A0x7b970c13b2e9f25f!2s218%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224040534!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-VVV
-
-* K. Hovnanian
-* Baltic 17 condos w/garage from upper $900K
-* Aegean 27 condos w/garage from lower $700K
-* [Baltic website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-baltic), [Aegean website](https://www.khov.com/find-new-homes/new-jersey/asbury-park/07712/k-hovnanian-homes/the-aegean)
-* [JerseyDigs article](https://jerseydigs.com/k-hovnanian-homes-to-pitch-44-unit-development-in-asbury-park/)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.29016183596104!2d-74.01328755690828!3d40.21593065677383!2m3!1f0!2f39.497982584701006!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263be08a8c93%3A0xd89d55c804d9f9fc!2s316%20Main%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728929587749!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
-Site (Baltic)
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-baltic.jpg">
-
-VVV
-
-Site (Aegean)
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-aegean.jpg">
-
-VVV
-
-Baltic Render
-
-<img width="95%" src="https://khov-cdn.azurefd.net/azure/sitefinitylibraries/images/default-source/images/nj/the-baltic/watermark-images-dca/interior-renderings/bond-loft-1-spec-3/2880x1700---media-gallery-and-aspot/aspot_artist-rendering_0015_129785_the-baltic_exterior-building.jpg?sfvrsn=d0c25d85_6&build=6111&encoder=wic&useresizingpipeline=true&width=1000" />
-
-VVV
-
-Aegean Render
-
-<img width="95%" src="https://khov-cdn.azurefd.net/azure/sitefinitylibraries/images/default-source/images/nj/the-aegean/dca-watermark-images/2880x1700---media-gallery-and-aspot/139819_the-aegean_exterior-building.jpg?sfvrsn=b3283b85_2&build=6111&encoder=wic&useresizingpipeline=true&width=1000" />
-
----
-
-## SURFHOUSE
-
-Kingsley between 3rd & 4th, across from Ocean Club
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d202.56161737442017!2d-74.00164399999997!3d40.22085075698952!2m3!1f0!2f39.48606657605809!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266a0e23136b%3A0xd5846b0424fdf20!2s1101%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1710258468966!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-VVV
-
-* Starfield Companies
-* 206 multifamily units, 20 luxury rental townhomes, 4600sf retail
-* https://www.surfhouseasburypark.com/
-* [JerseyDigs article](https://jerseydigs.com/surfhouse-asbury-park-financing/)
-
-VVV
-
-Site
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-surfhouse.jpg">
+* [Sackman](https://sackman.com/portfolio/316-main-street/)
+* 24 units and 1,116 sf retail
 
 VVV
 
 Render
 
-<img  width="95%" src="https://static.wixstatic.com/media/b5d75c_c8243aeb193d42e78931afdf7ea643e1~mv2.jpg/v1/fit/w_3840,h_2162,q_90/b5d75c_c8243aeb193d42e78931afdf7ea643e1~mv2.webp" />
+<img width="95%" src="https://sackman.com/wp-content/uploads/2021/10/316-Main-St-PB.jpg">
 
 ---
 
@@ -335,9 +354,9 @@ VVV
 
 ---
 
-## ???
+## 900 Springwood
 
-900 Springwood Ave
+900-904 Springwood Ave (aka 2 Memorial Drive)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.39256283047143!2d-74.01570160939093!3d40.213133558511814!2m3!1f0!2f39.49908617261902!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263a89c929c3%3A0x3212dc2e746452ac!2s900%20Springwood%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728927056756!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -410,7 +429,6 @@ Render
 
 <img width="95%" src="https://www.gannett-cdn.com/authoring/authoring-images/2023/10/26/PAPP/71328129007-asbury-1.jpg?crop=1912,1075,x0,y0&width=1200&disable=upscale&format=pjpg&auto=webp">
 
-
 ---
 
 ## 1201 Memorial
@@ -423,7 +441,7 @@ VVV
 
 * Douglas Development Corp
 * 126 units, 132 parking spots, plus retail
-* [Coaster article](https://thecoaster.net/2024/06/19/in-asbury-park-vote-on-memorial-drive-development-plan-scheduled-june-26/) - public hearing June 26
+* [Coaster article](https://thecoaster.net/2024/06/19/in-asbury-park-vote-on-memorial-drive-development-plan-scheduled-june-26/)
 
 VVV
 
@@ -439,7 +457,7 @@ Render
 
 ---
 
-## Monroe Ave
+## 700 Monroe
 
 700 Monroe Ave
 
@@ -465,7 +483,7 @@ Render
 
 ---
 
-## 1st Ave
+## The Montauk
 
 700 1st Ave
 
