@@ -194,9 +194,7 @@ Render
 
 ---
 
-## 316 Main Street
-
-316 Main St
+## 316 Main St
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.29016183596104!2d-74.01328755690828!3d40.21593065677383!2m3!1f0!2f39.497982584701006!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263be08a8c93%3A0xd89d55c804d9f9fc!2s316%20Main%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728929587749!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -213,9 +211,9 @@ Render
 
 ---
 
-## 4th Ave (Wonder Bar)
+## 115 4th Ave
 
-115 4th Ave, next to Wonder Bar
+next to Wonder Bar
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d410.85027572256513!2d-74.00100681601525!3d40.21986650704749!2m3!1f0!2f39.33337654807323!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c226698b5f3b4f%3A0xf13cee52232fa392!2s115%204th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224212402!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -242,8 +240,6 @@ Render
 ---
 
 ## 400 Lake Ave
-
-400 Lake Ave
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.6461223339429!2d-74.00872956006293!3d40.211282563625716!2m3!1f0!2f39.24887362513789!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22638a3cd47bd%3A0xbec6aeb3a2e0b6f1!2s400%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718735415699!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -315,32 +311,6 @@ Site
 
 ---
 
-## The Views at North Shore
-
-201-203 8th Ave
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.6959664953174!2d-74.00029270999633!3d40.22729309253233!2m3!1f0!2f39.49835402053341!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e90315a77%3A0xe1760e001b2f683a!2s201%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728925484571!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-VVV
-
-* Asbury Partners and APW Redeveloper
-* 54 units, 27 units each in 2 buildings, 109 parking spaces
-* [Coaster article](https://thecoaster.net/2024/09/25/2-residential-buildings-planned-at-citys-north-end/)
-
-VVV
-
-Site
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th.jpg">
-
-VVV
-
-Site
-
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th-2.jpg">
-
----
-
 ## The Rail at Asbury Park
 
 201/301 Memorial Dr
@@ -361,9 +331,9 @@ Render
 
 ---
 
-## 900 Springwood
+## 900-904 Springwood
 
-900-904 Springwood Ave (aka 2 Memorial Drive)
+(aka 2 Memorial Drive)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.39256283047143!2d-74.01570160939093!3d40.213133558511814!2m3!1f0!2f39.49908617261902!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263a89c929c3%3A0x3212dc2e746452ac!2s900%20Springwood%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728927056756!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -386,9 +356,7 @@ Render
 
 ---
 
-## 1st Ave (east side)
-
-213-215 1st Ave
+## 213-215 1st Ave (east side)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412.4620603227522!2d-74.00434031188418!3d40.21706357812736!2m3!1f0!2f39.37778116714898!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641ad45df31%3A0x11b7099cab3a93b7!2s213-215%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224416769!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -412,9 +380,7 @@ Render
 
 ---
 
-## 1st Ave (west side)
-
-1001 1st Ave
+## 1001 1st Ave (west side)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d430.0648944063578!2d-74.01553697503536!3d40.21954344088085!2m3!1f0!2f39.326054039377055!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263d97eaf677%3A0xd86cf671da71d702!2s1001%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224448778!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -438,9 +404,7 @@ Render
 
 ---
 
-## 1201 Memorial
-
-1201 Memorial Dr
+## 1201 Memorial Dr
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.17274217295926!2d-74.012581393509!3d40.22393915376026!2m3!1f0!2f39.49788438818396!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22615d168e0a7%3A0xe7462cf597e3bf55!2s1201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718829364209!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -505,6 +469,48 @@ VVV
 Site
 
 <img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
+
+---
+
+## The Views at North Shore (proposed)
+
+201-203 8th Ave
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.6959664953174!2d-74.00029270999633!3d40.22729309253233!2m3!1f0!2f39.49835402053341!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e90315a77%3A0xe1760e001b2f683a!2s201%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728925484571!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* Asbury Partners and APW Redeveloper
+* 54 units, 27 units each in 2 buildings, 109 parking spaces
+* [Coaster article](https://thecoaster.net/2024/09/25/2-residential-buildings-planned-at-citys-north-end/)
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th.jpg">
+
+VVV
+
+Site
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th-2.jpg">
+
+---
+
+## 212-214 2nd Ave (proposed)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92.73791404685471!2d-74.00358544429534!3d40.21983618135611!2m3!1f0!2f39.571421462342066!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641b499e965%3A0x325792a8cd9c2484!2s214%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728936543035!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
+
+* 15 units, 28 parking spaces
+
+VVV
+
+Render
+
+<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-212-2nd.png">
 
 ---
 
