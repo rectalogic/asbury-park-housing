@@ -137,7 +137,6 @@ VVV
 
 * Asbury Living
 * 103 units
-* Under [TRC review](https://www.cityofasburypark.com/257/Planning-Redevelopment)
 
 ---
 
@@ -146,6 +145,8 @@ VVV
 block Kingsley & Webb and 7th & 8th
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.7610724485712!2d-74.00068167043611!3d40.22628479323128!2m3!1f0!2f39.49923474880603!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e99bfbc59%3A0x35604517547a8b72!2s202-210%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928762094!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+VVV
 
 * APW Redeveloper & Asbury Partners
 * 45 townhomes
@@ -160,7 +161,7 @@ VVV
 
 Render
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-delta.png">
+<img width="60%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-delta.png">
 
 ---
 
@@ -222,7 +223,7 @@ VVV
 
 * Inspired by Somerset (Bellworks developer)
 * 155 residences, 270 interior parking spaces, 9,390sf retail
-* no more Yappy Hour play yard
+* no more Yappy Hour play yard?
 * [Developers website](https://inspiredsd.com/)
 * [JerseyDigs article](https://jerseydigs.com/wonder-bar-condos-asbury-park/)
 
@@ -342,7 +343,7 @@ Site
 
 ## The Rail at Asbury Park
 
-201 Memorial Dr
+201/301 Memorial Dr
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184.96112680749502!2d-74.01580666382378!3d40.21537440187495!2m3!1f0!2f39.468315356385446!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263ba85d807f%3A0xc58705fb07fde856!2s201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728926717511!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -351,6 +352,12 @@ VVV
 * Denholtz Properties
 * 125 units (25 affordable), 5000 sf commercial space
 * [Developers site](https://denholtz.com/property/rail-at-asbury/)
+
+VVV
+
+Render
+
+<img width="95%" src="https://denholtz.com/wp-content/uploads/2023/06/Rendering-1-982x552.png">
 
 ---
 
@@ -506,5 +513,3 @@ Total: over 1000 units
 <img width="50%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/qr.png">
 
 https://bit.ly/asburypark-housing
-
-[Asbury Park Planning & Redevelopment](https://www.cityofasburypark.com/257/Planning-Redevelopment)
