@@ -1,7 +1,7 @@
 # Asbury Park Housing Construction
 
 <!--
-note: https://gist-reveal.rectalogic.com/?markdownURL=https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/0-asbury-park-housing.md
+note: https://gist-reveal.rectalogic.com/?markdownURL=https://rectalogic.com/asbury-park-housing/index.md
 
 note: https://bit.ly/asburypark-housing
 -->
@@ -25,7 +25,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-surfhouse.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-surfhouse.jpg">
 
 VVV
 
@@ -51,7 +51,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-rhythm.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-rhythm.jpg">
 
 VVV
 
@@ -79,13 +79,13 @@ VVV
 
 Site (Baltic)
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-baltic.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-baltic.jpg">
 
 VVV
 
 Site (Aegean)
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-aegean.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-aegean.jpg">
 
 VVV
 
@@ -117,7 +117,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-sunset-square.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-sunset-square.jpg">
 
 VVV
 
@@ -155,13 +155,13 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-203-207-7th.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-203-207-7th.jpg">
 
 VVV
 
 Render
 
-<img width="60%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-delta.png">
+<img width="60%" src="https://rectalogic.com/asbury-park-housing/render-delta.png">
 
 ---
 
@@ -184,7 +184,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-holy-spirit.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-holy-spirit.jpg">
 
 VVV
 
@@ -229,7 +229,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-somerset.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-somerset.jpg">
 
 VVV
 
@@ -253,13 +253,13 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-400-lake.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-400-lake.jpg">
 
 VVV
 
 Render
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-400-lake.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/render-400-lake.jpg">
 
 ---
 
@@ -280,7 +280,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1012-asbury.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-1012-asbury.jpg">
 
 VVV
 
@@ -346,13 +346,13 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-900-springwood.png">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-900-springwood.png">
 
 VVV
 
 Render
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-900-springwood.png">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/render-900-springwood.png">
 
 ---
 
@@ -370,7 +370,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-213-215-1st.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-213-215-1st.jpg">
 
 VVV
 
@@ -394,7 +394,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1001-1st.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-1001-1st.jpg">
 
 VVV
 
@@ -418,7 +418,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-1201-memorial.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-1201-memorial.jpg">
 
 VVV
 
@@ -444,7 +444,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-monroe.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-700-monroe.jpg">
 
 VVV
 
@@ -468,7 +468,7 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-700-1st.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-700-1st.jpg">
 
 ---
 
@@ -488,13 +488,13 @@ VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-201-203-8th.jpg">
 
 VVV
 
 Site
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/site-201-203-8th-2.jpg">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-201-203-8th-2.jpg">
 
 ---
 
@@ -510,12 +510,12 @@ VVV
 
 Render
 
-<img width="95%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/render-212-2nd.png">
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/render-212-2nd.png">
 
 ---
 
 Total: over 1000 units
 
-<img width="50%" src="https://gist.githubusercontent.com/rectalogic/76c529e1534800d0eb22a7fa9a5b5e82/raw/qr.png">
+<img width="50%" src="https://rectalogic.com/asbury-park-housing/qr.png">
 
 https://bit.ly/asburypark-housing
