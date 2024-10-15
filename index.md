@@ -3,7 +3,7 @@
 <!--
 note: https://gist-reveal.rectalogic.com/?markdownURL=https://rectalogic.com/asbury-park-housing/index.md
 
-note: https://bit.ly/asburypark-housing
+note: https://bit.ly/ap-housing
 -->
 
 ---
@@ -137,6 +137,12 @@ VVV
 
 * Asbury Living
 * 103 units
+
+VVV
+
+Site
+
+<img width="95%" src="https://rectalogic.com/asbury-park-housing/site-201-6th.jpg">
 
 ---
 
@@ -532,7 +538,7 @@ Render
 
 ---
 
-Total: over 1000 units
+Total: nearly 1500 units
 
 <img width="50%" src="https://rectalogic.com/asbury-park-housing/qr.png">
 
