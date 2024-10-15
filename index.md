@@ -536,4 +536,4 @@ Total: over 1000 units
 
 <img width="50%" src="https://rectalogic.com/asbury-park-housing/qr.png">
 
-https://bit.ly/asburypark-housing
+https://bit.ly/ap-housing
