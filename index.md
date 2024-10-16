@@ -127,7 +127,7 @@ Render
 
 ---
 
-## Asbury Park Luxury Apartments
+## Asbury Park Luxury Apartments (pending)
 
 201 6th Ave (behind Rhythm)
 
@@ -146,7 +146,7 @@ Site
 
 ---
 
-## The Delta
+## The Delta (pending)
 
 block Kingsley & Webb and 7th & 8th
 
@@ -171,7 +171,7 @@ Render
 
 ---
 
-## The Crossroads
+## The Crossroads (pending)
 
 701-705 2nd Ave (Holy Spirit church)
 
@@ -223,9 +223,9 @@ Render
 
 ---
 
-## 115 4th Ave
+## Inspire by Somerset
 
-next to Wonder Bar
+115 4th Ave (next to Wonder Bar)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d410.85027572256513!2d-74.00100681601525!3d40.21986650704749!2m3!1f0!2f39.33337654807323!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c226698b5f3b4f%3A0xf13cee52232fa392!2s115%204th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224212402!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -398,13 +398,13 @@ Render
 
 ---
 
-## 1001 1st Ave (west side)
+## 1001 1st Ave (west side) (pending)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d430.0648944063578!2d-74.01553697503536!3d40.21954344088085!2m3!1f0!2f39.326054039377055!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263d97eaf677%3A0xd86cf671da71d702!2s1001%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224448778!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
-* 80 apartments (revised to 60?), 94 parking spaces, 2 retail spaces
+* 104 apartments (20% affordable), parking
 * [RealEstate NJ article](https://re-nj.com/marcus-asbury-park-lot-zoned-for-80-apartments-trades-for-2-2-million/)
 * [APP article](https://www.app.com/story/news/local/redevelopment/2023/10/30/asbury-park-apartment-building-first-avenue-parking/71346422007/)
 
@@ -422,7 +422,7 @@ Render
 
 ---
 
-## 1201 Memorial Dr
+## 1201 Memorial Dr (pending)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.17274217295926!2d-74.012581393509!3d40.22393915376026!2m3!1f0!2f39.49788438818396!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22615d168e0a7%3A0xe7462cf597e3bf55!2s1201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718829364209!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -454,8 +454,8 @@ Render
 
 VVV
 
-* Sackman
-* 60 units, 12 affordable, 34 space garage, 1024sf retail
+* [Sackman](https://sackman.com/portfolio/700-monroe-avenue/)
+* 60 units, 12 affordable, 34 space garage, 4000sf retail
 * [JerseyDigs article](https://jerseydigs.com/700-monroe-ave-asbury-park/)
 
 VVV
@@ -468,7 +468,7 @@ VVV
 
 Render
 
-<img width="95%" src="https://jerseydigs.com/wp-content/uploads/2022/07/700-monroe-ave-asbury-park-1-1536x895.jpg">
+<img width="95%" src="https://sackman.com/wp-content/uploads/2021/10/Monroe-Avenue-Renderings-2-1.jpg">
 
 ---
 
@@ -490,7 +490,7 @@ Site
 
 ---
 
-## The Views at North Shore (proposed)
+## The Views at North Shore (pending)
 
 201-203 8th Ave
 
@@ -516,7 +516,7 @@ Site
 
 ---
 
-## 212-214 2nd Ave (proposed)
+## 212-214 2nd Ave (pending)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92.73791404685471!2d-74.00358544429534!3d40.21983618135611!2m3!1f0!2f39.571421462342066!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641b499e965%3A0x325792a8cd9c2484!2s214%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728936543035!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -539,6 +539,10 @@ Render
 ---
 
 Total: nearly 1500 units
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L28wAMR0VFay2zMQOsmRtErqV_5tJnY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
+---
 
 <img width="50%" src="https://rectalogic.com/asbury-park-housing/qr.png">
 
