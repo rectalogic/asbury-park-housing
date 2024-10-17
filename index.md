@@ -12,7 +12,7 @@ note: https://bit.ly/ap-housing
 
 Kingsley between 3rd & 4th, across from Ocean Club
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d202.56161737442017!2d-74.00164399999997!3d40.22085075698952!2m3!1f0!2f39.48606657605809!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266a0e23136b%3A0xd5846b0424fdf20!2s1101%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1710258468966!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d202.56161737442017!2d-74.00164399999997!3d40.22085075698952!2m3!1f0!2f39.48606657605809!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266a0e23136b%3A0xd5846b0424fdf20!2s1101%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1710258468966!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -39,7 +39,7 @@ Render
 
 204 7th Ave (across from North Beach condos)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d748.8629017944913!2d-74.00278816006585!3d40.22144014985113!2m3!1f0!2f39.248879794024084!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266eaedb0d13%3A0x4525013642a65e40!2s204%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718897394498!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d748.8629017944913!2d-74.00278816006585!3d40.22144014985113!2m3!1f0!2f39.248879794024084!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266eaedb0d13%3A0x4525013642a65e40!2s204%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718897394498!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -65,7 +65,7 @@ Render
 
 218 3rd Ave
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.3941081400262!2d-74.00450203104658!3d40.21835486965844!2m3!1f0!2f39.29713358062763!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641d4a1d39f%3A0x7b970c13b2e9f25f!2s218%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224040534!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.3941081400262!2d-74.00450203104658!3d40.21835486965844!2m3!1f0!2f39.29713358062763!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641d4a1d39f%3A0x7b970c13b2e9f25f!2s218%203rd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224040534!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -105,7 +105,7 @@ Aegean Render
 
 1401 Kingsley St (next to Kim Maries)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.44661719107535!2d-74.00147534888619!3d40.22242577716042!2m3!1f0!2f39.29757284354271!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709223884151!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.44661719107535!2d-74.00147534888619!3d40.22242577716042!2m3!1f0!2f39.29757284354271!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709223884151!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -131,7 +131,7 @@ Render
 
 201 6th Ave (behind Rhythm)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d126.8637920945285!2d-73.99978386715544!3d40.225270970310184!2m2!1f0!2f45!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22669534c60fd%3A0xe9244ca48a0e3ab3!2s201%20Sixth%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928357523!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d126.8637920945285!2d-73.99978386715544!3d40.225270970310184!2m2!1f0!2f45!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22669534c60fd%3A0xe9244ca48a0e3ab3!2s201%20Sixth%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928357523!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -150,7 +150,7 @@ Site
 
 entire block - Kingsley & Webb and 7th & 8th
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.7610724485712!2d-74.00068167043611!3d40.22628479323128!2m3!1f0!2f39.49923474880603!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e99bfbc59%3A0x35604517547a8b72!2s202-210%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928762094!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.7610724485712!2d-74.00068167043611!3d40.22628479323128!2m3!1f0!2f39.49923474880603!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e99bfbc59%3A0x35604517547a8b72!2s202-210%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928762094!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -175,7 +175,7 @@ Render
 
 701-705 2nd Ave (Holy Spirit church)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.3141907543177!2d-74.01120671381267!3d40.21957042155854!2m3!1f0!2f39.3327703841229!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263e3b3a8853%3A0x5e938ec0df247766!2s701%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709223961610!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.3141907543177!2d-74.01120671381267!3d40.21957042155854!2m3!1f0!2f39.3327703841229!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263e3b3a8853%3A0x5e938ec0df247766!2s701%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709223961610!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -204,7 +204,7 @@ Render
 
 corner of Main & Bangs St
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.29016183596104!2d-74.01328755690828!3d40.21593065677383!2m3!1f0!2f39.497982584701006!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263be08a8c93%3A0xd89d55c804d9f9fc!2s316%20Main%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728929587749!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.29016183596104!2d-74.01328755690828!3d40.21593065677383!2m3!1f0!2f39.497982584701006!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263be08a8c93%3A0xd89d55c804d9f9fc!2s316%20Main%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728929587749!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -229,7 +229,7 @@ Render
 
 115 4th Ave (next to Wonder Bar)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d410.85027572256513!2d-74.00100681601525!3d40.21986650704749!2m3!1f0!2f39.33337654807323!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c226698b5f3b4f%3A0xf13cee52232fa392!2s115%204th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224212402!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d410.85027572256513!2d-74.00100681601525!3d40.21986650704749!2m3!1f0!2f39.33337654807323!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c226698b5f3b4f%3A0xf13cee52232fa392!2s115%204th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224212402!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -255,7 +255,7 @@ Render
 
 ## 400 Lake Ave
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.6461223339429!2d-74.00872956006293!3d40.211282563625716!2m3!1f0!2f39.24887362513789!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22638a3cd47bd%3A0xbec6aeb3a2e0b6f1!2s400%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718735415699!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.6461223339429!2d-74.00872956006293!3d40.211282563625716!2m3!1f0!2f39.24887362513789!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22638a3cd47bd%3A0xbec6aeb3a2e0b6f1!2s400%20Lake%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718735415699!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -281,7 +281,7 @@ Render
 
 block next to Chat & Nibble
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412.4395134670194!2d-74.01720564212587!3d40.21808838600387!2m3!1f0!2f39.33247535128633!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263cfb5a9b77%3A0xead011fb747a362d!2s1012%20Asbury%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224320065!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412.4395134670194!2d-74.01720564212587!3d40.21808838600387!2m3!1f0!2f39.33247535128633!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263cfb5a9b77%3A0xead011fb747a362d!2s1012%20Asbury%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224320065!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -308,7 +308,7 @@ Render
 
 527 Bangs Ave
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.0598179999506!2d-74.01056106261666!3d40.21384756020471!2m3!1f0!2f39.33276272574597!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22639213e39ef%3A0x1612c7c056e794d6!2s527%20Bangs%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224351434!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.0598179999506!2d-74.01056106261666!3d40.21384756020471!2m3!1f0!2f39.33276272574597!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22639213e39ef%3A0x1612c7c056e794d6!2s527%20Bangs%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224351434!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -329,7 +329,7 @@ Site
 
 201/301 Memorial Dr (behind train station)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184.96112680749502!2d-74.01580666382378!3d40.21537440187495!2m3!1f0!2f39.468315356385446!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263ba85d807f%3A0xc58705fb07fde856!2s201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728926717511!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184.96112680749502!2d-74.01580666382378!3d40.21537440187495!2m3!1f0!2f39.468315356385446!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263ba85d807f%3A0xc58705fb07fde856!2s201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728926717511!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -355,7 +355,7 @@ Render
 
 (aka 2 Memorial Drive)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.39256283047143!2d-74.01570160939093!3d40.213133558511814!2m3!1f0!2f39.49908617261902!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263a89c929c3%3A0x3212dc2e746452ac!2s900%20Springwood%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728927056756!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.39256283047143!2d-74.01570160939093!3d40.213133558511814!2m3!1f0!2f39.49908617261902!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263a89c929c3%3A0x3212dc2e746452ac!2s900%20Springwood%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728927056756!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -378,7 +378,7 @@ Render
 
 ## 213-215 1st Ave (east side)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412.4620603227522!2d-74.00434031188418!3d40.21706357812736!2m3!1f0!2f39.37778116714898!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641ad45df31%3A0x11b7099cab3a93b7!2s213-215%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224416769!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412.4620603227522!2d-74.00434031188418!3d40.21706357812736!2m3!1f0!2f39.37778116714898!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641ad45df31%3A0x11b7099cab3a93b7!2s213-215%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224416769!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -402,7 +402,7 @@ Render
 
 ## 1001 1st Ave (west side) (pending)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d430.0648944063578!2d-74.01553697503536!3d40.21954344088085!2m3!1f0!2f39.326054039377055!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263d97eaf677%3A0xd86cf671da71d702!2s1001%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224448778!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d430.0648944063578!2d-74.01553697503536!3d40.21954344088085!2m3!1f0!2f39.326054039377055!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263d97eaf677%3A0xd86cf671da71d702!2s1001%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224448778!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -428,7 +428,7 @@ Render
 
 across tracks from Mutiny BBQ
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.17274217295926!2d-74.012581393509!3d40.22393915376026!2m3!1f0!2f39.49788438818396!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22615d168e0a7%3A0xe7462cf597e3bf55!2s1201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718829364209!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.17274217295926!2d-74.012581393509!3d40.22393915376026!2m3!1f0!2f39.49788438818396!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22615d168e0a7%3A0xe7462cf597e3bf55!2s1201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718829364209!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -454,7 +454,7 @@ Render
 
 corner of Main St and Monroe Ave
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.21226911072154!2d-74.01264338565382!3d40.217245814037135!2m3!1f0!2f39.506982356980025!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263eae894cbb%3A0xd14f0d7b5ef3aaf3!2s712%20Monroe%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1729181336591!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.21226911072154!2d-74.01264338565382!3d40.217245814037135!2m3!1f0!2f39.506982356980025!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263eae894cbb%3A0xd14f0d7b5ef3aaf3!2s712%20Monroe%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1729181336591!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -480,7 +480,7 @@ Render
 
 700 1st Ave (1st and Bond St)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206.2719880451914!2d-74.01119742036543!3d40.21949214446375!2m3!1f0!2f39.42752121315507!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224007147!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206.2719880451914!2d-74.01119742036543!3d40.21949214446375!2m3!1f0!2f39.42752121315507!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224007147!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -498,7 +498,7 @@ Site
 
 201-203 8th Ave
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.6959664953174!2d-74.00029270999633!3d40.22729309253233!2m3!1f0!2f39.49835402053341!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e90315a77%3A0xe1760e001b2f683a!2s201%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728925484571!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.6959664953174!2d-74.00029270999633!3d40.22729309253233!2m3!1f0!2f39.49835402053341!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e90315a77%3A0xe1760e001b2f683a!2s201%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728925484571!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -524,7 +524,7 @@ Site
 
 next to Britwoods Court condo
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92.73791404685471!2d-74.00358544429534!3d40.21983618135611!2m3!1f0!2f39.571421462342066!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641b499e965%3A0x325792a8cd9c2484!2s214%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728936543035!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92.73791404685471!2d-74.00358544429534!3d40.21983618135611!2m3!1f0!2f39.571421462342066!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641b499e965%3A0x325792a8cd9c2484!2s214%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728936543035!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="eager" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
