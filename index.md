@@ -103,7 +103,7 @@ Aegean Render
 
 ## Sunset Square
 
-1401 Kingsley St
+1401 Kingsley St (next to Kim Maries)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d411.44661719107535!2d-74.00147534888619!3d40.22242577716042!2m3!1f0!2f39.29757284354271!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266961d12935%3A0x6efcaaec9dddf80b!2s1401%20Kingsley%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709223884151!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -202,6 +202,8 @@ Render
 
 ## 316 Main St
 
+corner of Main & Bangs St
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.29016183596104!2d-74.01328755690828!3d40.21593065677383!2m3!1f0!2f39.497982584701006!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263be08a8c93%3A0xd89d55c804d9f9fc!2s316%20Main%20St%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728929587749!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
@@ -275,9 +277,9 @@ Render
 
 ---
 
-## Asbury Ave
+## 1012 Asbury Ave
 
-1012 Asbury Ave
+block next to Chat & Nibble
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412.4395134670194!2d-74.01720564212587!3d40.21808838600387!2m3!1f0!2f39.33247535128633!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263cfb5a9b77%3A0xead011fb747a362d!2s1012%20Asbury%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224320065!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -325,7 +327,7 @@ Site
 
 ## The Rail at Asbury Park
 
-201/301 Memorial Dr
+201/301 Memorial Dr (behind train station)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184.96112680749502!2d-74.01580666382378!3d40.21537440187495!2m3!1f0!2f39.468315356385446!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263ba85d807f%3A0xc58705fb07fde856!2s201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728926717511!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -424,6 +426,8 @@ Render
 
 ## 1201 Memorial Dr (pending)
 
+across tracks from Mutiny BBQ
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187.17274217295926!2d-74.012581393509!3d40.22393915376026!2m3!1f0!2f39.49788438818396!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22615d168e0a7%3A0xe7462cf597e3bf55!2s1201%20Memorial%20Dr%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718829364209!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
@@ -446,9 +450,9 @@ Render
 
 ---
 
-## 700 Monroe
+## 700 Monroe Ave
 
-700 Monroe Ave
+corner of Main St and Monroe Ave
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d413.9988894656999!2d-74.0126705114974!3d40.21567188729575!2m3!1f0!2f39.37649687147753!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263eafc10c23%3A0xaa80de6620a77d36!2s700%20Monroe%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224481278!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -474,7 +478,7 @@ Render
 
 ## The Montauk
 
-700 1st Ave
+700 1st Ave (1st and Bond St)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206.2719880451914!2d-74.01119742036543!3d40.21949214446375!2m3!1f0!2f39.42752121315507!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263e5c757c61%3A0x45cfc39ba4701b95!2s700%201st%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224007147!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
