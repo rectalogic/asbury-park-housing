@@ -37,7 +37,7 @@ Render
 
 ## Rhythm
 
-204 7th Ave
+204 7th Ave (across from North Beach condos)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d748.8629017944913!2d-74.00278816006585!3d40.22144014985113!2m3!1f0!2f39.248879794024084!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266eaedb0d13%3A0x4525013642a65e40!2s204%207th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1718897394498!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -148,7 +148,7 @@ Site
 
 ## The Delta (pending)
 
-block Kingsley & Webb and 7th & 8th
+entire block - Kingsley & Webb and 7th & 8th
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.7610724485712!2d-74.00068167043611!3d40.22628479323128!2m3!1f0!2f39.49923474880603!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2266e99bfbc59%3A0x35604517547a8b72!2s202-210%208th%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728928762094!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -454,7 +454,7 @@ Render
 
 corner of Main St and Monroe Ave
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d413.9988894656999!2d-74.0126705114974!3d40.21567188729575!2m3!1f0!2f39.37649687147753!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263eafc10c23%3A0xaa80de6620a77d36!2s700%20Monroe%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1709224481278!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186.21226911072154!2d-74.01264338565382!3d40.217245814037135!2m3!1f0!2f39.506982356980025!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c2263eae894cbb%3A0xd14f0d7b5ef3aaf3!2s712%20Monroe%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1729181336591!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 VVV
 
@@ -484,7 +484,7 @@ Render
 
 VVV
 
-* 11 units
+* 11 luxury apartments
 
 VVV
 
@@ -521,6 +521,8 @@ Site
 ---
 
 ## 212-214 2nd Ave (pending)
+
+next to Britwoods Court condo
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92.73791404685471!2d-74.00358544429534!3d40.21983618135611!2m3!1f0!2f39.571421462342066!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x89c22641b499e965%3A0x325792a8cd9c2484!2s214%202nd%20Ave%2C%20Asbury%20Park%2C%20NJ%2007712!5e1!3m2!1sen!2sus!4v1728936543035!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
